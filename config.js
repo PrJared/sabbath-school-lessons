@@ -1,4 +1,7 @@
 var BIBLE_PARSER_CONFIG = {
+  "am": [
+    "nasv"
+  ],
   "af": [
     "afr83",
     "afr1953"
@@ -18,7 +21,8 @@ var BIBLE_PARSER_CONFIG = {
 
   "da": [
     "bph",
-    "dn1933"
+    "dn1933",
+    "bibelen1992",
   ],
 
   "de": [
@@ -54,12 +58,20 @@ var BIBLE_PARSER_CONFIG = {
     "fov"
   ],
 
+  "fi": [
+    "fb92"
+  ],
+
   "fr": [
     "lsg"
   ],
 
   "it": [
     "nr2006"
+  ],
+
+  "ilo": [
+    "tb1973"
   ],
 
   "ka": [
@@ -74,6 +86,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "hi": ["hhbd"],
 
+  "hil": [
+    "hil82"
+  ],
+
   "he": [
     "em-1865"
   ],
@@ -86,6 +102,9 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "hu": [
+    "karoli",
+    "revkar2011",
+    "ruf2014",
     "mb1975"
   ],
 
@@ -141,7 +160,10 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "nl": [
-    "nbg51"
+    "nbg51",
+    "nbv",
+    "hsv",
+    "bgt"
   ],
 
   "no": [
@@ -161,6 +183,10 @@ var BIBLE_PARSER_CONFIG = {
   "ru": [
     "bti",
     "rusv"
+  ],
+
+  "si": [
+    "srov"
   ],
 
   "sl": [
